@@ -1,0 +1,23 @@
+{
+  "name": "atv-tecnica-mm",
+  "version": "1.0.0",
+  "description": "Para rodar os Testes automatizados vamos precisar seguir alguns passos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giovanna-Liem/atv-tecnica-mm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giovanna-Liem/atv-tecnica-mm/issues"
+  },
+  "homepage": "https://github.com/Giovanna-Liem/atv-tecnica-mm#readme",
+  "devDependencies": {
+    "cypress": "^13.7.3"
+  }
+}
